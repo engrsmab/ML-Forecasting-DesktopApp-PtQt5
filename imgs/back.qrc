@@ -1,0 +1,78 @@
+<RCC>
+  <qresource prefix="Pics">
+    <file>dot.png</file>
+    <file>account-logout-32.png</file>
+    <file>agents.jpg</file>
+    <file>back.jpg</file>
+    <file>back.png</file>
+    <file>back.qrc</file>
+    <file>backlogo.png</file>
+    <file>bill-32.png</file>
+    <file>Billing.jpg</file>
+    <file>bills.jpg</file>
+    <file>ButtonSubmit.png</file>
+    <file>cancel.png</file>
+    <file>cross.png</file>
+    <file>dashboard-bg.png</file>
+    <file>edit-user-24.png</file>
+    <file>error icon.png</file>
+    <file>exit icon.jpg</file>
+    <file>exit.png</file>
+    <file>expense.png</file>
+    <file>gear-2-32.png</file>
+    <file>green-bg.png</file>
+    <file>green-tick.png</file>
+    <file>group-32.png</file>
+    <file>help icon.png</file>
+    <file>home-32.png</file>
+    <file>icon.ico</file>
+    <file>key-3-24.png</file>
+    <file>Log out.jpg</file>
+    <file>login_bg.png</file>
+    <file>Login.jpg</file>
+    <file>logo_resized.png</file>
+    <file>logo.png</file>
+    <file>Official Logo [Azeem Ent.].jpg</file>
+    <file>orange-bg.png</file>
+    <file>PPRA.png</file>
+    <file>RegButton.png</file>
+    <file>settings-4-24.png</file>
+    <file>sources.png</file>
+    <file>SubBut.png</file>
+    <file>tick.png</file>
+    <file>us-dollar-32.png</file>
+    <file>warn.png</file>
+  </qresource>
+  <qresource prefix="updated">
+    <file>error-6-24.png</file>
+    <file>warning-33-24.png</file>
+    <file>businessman-32.png</file>
+    <file>bg-flower.png</file>
+    <file>edit-user-16.png</file>
+    <file>key-4-16.png</file>
+    <file>arrow-141-16.png</file>
+    <file>arrow-204-16.png</file>
+    <file>message-2-16.png</file>
+  </qresource>
+  <qresource prefix="New_images">
+    <file>book-16-16.png</file>
+    <file>businessman-16.png</file>
+    <file>delete-16.png</file>
+    <file>eye-2-16.png</file>
+    <file>blue_/gear-2-24 (1).png</file>
+    <file>blue_/gear-2-24.png</file>
+    <file>blue_/house-24.png</file>
+    <file>blue_/list-2-24 (1).png</file>
+    <file>blue_/list-2-24.png</file>
+    <file>blue_/loop-24 (1).png</file>
+    <file>blue_/loop-24.png</file>
+    <file>blue_/workstation-24 (1).png</file>
+    <file>blue_/workstation-24.png</file>
+    <file>workers-16.png</file>
+    <file>settings-13-16.png</file>
+    <file>network-16.png</file>
+    <file>purchase-order-16.png</file>
+    <file>add-file-16.png</file>
+    <file>search-12-16.png</file>
+  </qresource>
+</RCC>
